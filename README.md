@@ -104,6 +104,6 @@ View your app in AI Studio: https://ai.studio/apps/9cca1680-024f-4486-8135-69c32
 
     <!-- Accessibility Landmark -->
     <div id="root" role="main" aria-live="polite"></div>
-    <script type="module" src="/src/index.tsx" defer></script>
+    <script type="module" src="/src/main.tsx" defer></script>
   </body>
 </html>
